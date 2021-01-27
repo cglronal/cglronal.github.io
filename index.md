@@ -35,7 +35,7 @@ I am a Ph.D. student in the University of Wisconsin - Milwaukee. My interest are
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/cglronal">GitHub</a></li>
-          <li><a href="https://twitter.com/caglar_onal">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://twitter.com/caglar_onal">Twitter (@caglar_onal)</a></li>
       </ul>
   </div>
 </div>
